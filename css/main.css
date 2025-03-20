@@ -1,0 +1,95 @@
+.tadjik {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+.p{
+    font-size:1.25rem;
+    font-weight:300
+}
+.container{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.lj{
+    text-align:center
+}
+.ht{
+    margin-right:3rem
+}
+.row{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.col{
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+}
+.col_6{
+ -ms-flex: 0 0 66.666667%;
+flex: 0 0 66.666667%;
+max-width: 66.666667%;
+}
+.card{
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+}
+.lk_4{
+    margin-bottom: 1.5rem
+}
+.product-img{
+    width: 265px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-body{
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+.it_title{
+    font-size: 1.5rem;
+    font-weight: 500;
+    font-family: 'Merriweather', serif;
+    height: 70px;
+}
+.tex_muted{
+    color: #6c757d
+}
+.det_wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.items{
+    font-family: 'Merriweather', serif;
+    background: #f2ede7;
+    border-radius: 8px;
+    width: 120px;
+    display: flex;
+    font-size: 18px;
+    height: 30px;
+    overflow: hidden;
+}
